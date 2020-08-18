@@ -1,4 +1,4 @@
-#Meet Peter Macinkovic
+# Meet Peter Macinkovic
 
 Hello! My name is Peter Macinkovic and I am a **Technical SEO Strategist** and eCommerce Specialist - spending my time tinkering away on web platforms like Shopify.
 
@@ -12,10 +12,10 @@ I am an upskill addict - always wanting to learn more and invest in personal dev
 
 I did a live presentation on [Shopify SEO for the Melbourne SEO Meetup on YouTube!](https://www.youtube.com/watch?v=OMUTkBMu9sQ)
 
-##Things I am learning right now
+## Things I am learning right now
 
 - [Svelte](https://svelte.dev/), [Sapper](https://sapper.svelte.dev/) and [Firebase](https://firebase.google.com/)
 - [Cloudflare Workers](https://workers.cloudflare.com/)
 
-##Get in touch
+## Get in touch
 You can reach me on [my personal website](https://peter.macinkovic.id.au/), [LinkedIn](https://www.linkedin.com/in/inkovic/) or [Twitter](https://twitter.com/inkovic)
