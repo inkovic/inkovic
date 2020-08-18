@@ -16,3 +16,6 @@ I did a live presentation on [Shopify SEO for the Melbourne SEO Meetup on YouTub
 
 - [Svelte](https://svelte.dev/), [Sapper](https://sapper.svelte.dev/) and [Firebase](https://firebase.google.com/)
 - [Cloudflare Workers](https://workers.cloudflare.com/)
+
+##Get in touch
+You can reach me on [my personal website](https://peter.macinkovic.id.au/), [LinkedIn](https://www.linkedin.com/in/inkovic/) or [Twitter](https://twitter.com/inkovic)
